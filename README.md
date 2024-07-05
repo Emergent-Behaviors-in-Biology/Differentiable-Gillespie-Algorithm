@@ -45,7 +45,7 @@ This repository contains the code and experimental data associated with the pape
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Emergent-Behaviors-in-Biology/DifferentiableGillespieAlgorithm.git
+    git clone https://github.com/Emergent-Behaviors-in-Biology/Differentiable-Gillespie-Algorithm.git
     ```
 
 2. Navigate to the project directory:
