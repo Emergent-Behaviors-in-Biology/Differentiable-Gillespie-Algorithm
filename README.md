@@ -30,9 +30,7 @@ This repository contains the code and experimental data associated with the pape
   - `loop_model_response1.ipynb`: Learning the seven parameters of the loop promoter model for response-1.
   - `loop_model_response2.ipynb`: Learning the seven parameters of the loop promoter model for response-2.
 
-## Getting Started
-
-### Prerequisites
+### **Prerequisites**
 
 - Python 3.x
 - Jupyter Notebook
