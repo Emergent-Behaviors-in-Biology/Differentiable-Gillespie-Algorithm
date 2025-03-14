@@ -41,32 +41,6 @@ This repository contains the code and experimental data associated with the pape
 - Matplotlib
 - SciPy
 
-### Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Emergent-Behaviors-in-Biology/Differentiable-Gillespie-Algorithm.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd DifferentiableGillespieAlgorithm
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Running the Notebooks
-
-Open Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-Navigate to the notebook you want to run and execute the cells.
-
 ###  **Usage**
 
 Each Jupyter notebook in this repository is self-contained. The notebooks are organized into different directories (jsd_analysis, loop_promoter_designing, science_paper_exp_data_fitting, simulated_data_fitting) based on their purpose. Appropriate functions are defined and described within the notebooks. The codes are well-commented to facilitate understanding and replication of the results.
