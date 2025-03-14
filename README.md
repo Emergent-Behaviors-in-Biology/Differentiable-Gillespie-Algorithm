@@ -1,8 +1,8 @@
-# Differentiable Gillespie Algorithm (DGA)
+## Differentiable Gillespie Algorithm (DGA)
 
 This repository contains the code and experimental data associated with the paper titled "A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits" by Krishna Rijal and Pankaj Mehta [1].
 
-## Repository Structure
+### Repository Structure
 
 - `jsd_analysis/`
   - `a_vs_jsd.ipynb`: Jensen-Shannon divergence (JSD) versus the hyper-parameter $a$.
@@ -43,10 +43,10 @@ This repository contains the code and experimental data associated with the pape
 
 Each Jupyter notebook in this repository is self-contained. The notebooks are organized into different directories (jsd_analysis, loop_promoter_designing, science_paper_exp_data_fitting, simulated_data_fitting) based on their purpose. Appropriate functions are defined and described within the notebooks. The codes are well-commented to facilitate understanding and replication of the results.
 
-## **Acknowledgements**
+### **Acknowledgements**
 
 This work was supported by NIH NIGMS R35GM119461 and the Chan Zuckerberg Initiative Investigator grant to P.M. We also acknowledge support from the Shared Computing Cluster (SCC) administered by Boston University Research Computing Services.
 
-## **Citation**
+### **Citation**
 
 [1] K. Rijal and P. Mehta, A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits, eLife, 14:RP103877. DOI: 10.7554/eLife.103877
