@@ -1,6 +1,6 @@
 # Differentiable Gillespie Algorithm (DGA)
 
-This repository contains the code and experimental data associated with the paper titled "A Differentiable Gillespie Algorithm for Simulating Chemical Kinetics, Parameter Estimation, and Designing Synthetic Biological Circuits" by Krishna Rijal and Pankaj Mehta [1].
+This repository contains the code and experimental data associated with the paper titled "A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits" by Krishna Rijal and Pankaj Mehta [1].
 
 ## Repository Structure
 
@@ -77,4 +77,4 @@ This work was supported by NIH NIGMS R35GM119461 and the Chan Zuckerberg Initiat
 
 ## **Citation**
 
-Rijal, K. and Mehta, P. (2025). A Differentiable Gillespie Algorithm for Simulating Chemical Kinetics, Parameter Estimation, and Designing Synthetic Biological Circuits. eLife, 14:RP103877. DOI: 10.7554/eLife.103877
+[1] K. Rijal and P. Mehta, A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits, eLife, 14:RP103877. DOI: 10.7554/eLife.103877
