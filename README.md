@@ -2,7 +2,7 @@
 
 This repository contains the code and experimental data associated with the paper titled "A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits" by Krishna Rijal and Pankaj Mehta [1].
 
-### Repository Structure
+### Repository structure
 
 - `jsd_analysis/`
   - `a_vs_jsd.ipynb`: Jensen-Shannon divergence (JSD) versus the hyper-parameter $a$.
