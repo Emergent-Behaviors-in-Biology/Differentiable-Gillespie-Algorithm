@@ -30,7 +30,7 @@ This repository contains the code and experimental data associated with the pape
   - `loop_model_response1.ipynb`: Learning the seven parameters of the loop promoter model for response-1.
   - `loop_model_response2.ipynb`: Learning the seven parameters of the loop promoter model for response-2.
 
-### **Prerequisites**
+### Prerequisites
 
 - Python 3.x
 - Jupyter Notebook
@@ -39,14 +39,14 @@ This repository contains the code and experimental data associated with the pape
 - Matplotlib
 - SciPy
 
-###  **Usage**
+###  Usage
 
 Each Jupyter notebook in this repository is self-contained. The notebooks are organized into different directories (jsd_analysis, loop_promoter_designing, science_paper_exp_data_fitting, simulated_data_fitting) based on their purpose. Appropriate functions are defined and described within the notebooks. The codes are well-commented to facilitate understanding and replication of the results.
 
-### **Acknowledgements**
+### Acknowledgements
 
 This work was supported by NIH NIGMS R35GM119461 and the Chan Zuckerberg Initiative Investigator grant to P.M. We also acknowledge support from the Shared Computing Cluster (SCC) administered by Boston University Research Computing Services.
 
-### **Citation**
+### Citation
 
 [1] K. Rijal and P. Mehta, A differentiable Gillespie algorithm for simulating chemical kinetics, parameter estimation, and designing synthetic biological circuits, eLife, 14:RP103877. DOI: 10.7554/eLife.103877
